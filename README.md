@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ravirk42
 - 👀 I’m interested in data engineering and cricket data analysis
-- 🌱 I’m currently learning streamlit , kafka streaming
-- 💞️ I’m looking to collaborate on aws, kakfa, spark streaming
+- 🌱 I’m currently kubernetes and cockroachDB
+- 💞️ I’m looking to collaborate on aws, kakfa , terraform
 - 📫 How to reach me -- ravikiran550@gmail.com
 
 <!---
